@@ -7,7 +7,7 @@
 .wrapper {
   height: 100vh;
   display: flex;
-  background-image: url("./assets/images/pattern.jpg");
+  background-image: url("../assets/images/pattern.jpg");
 }
 
 .memory-game {
